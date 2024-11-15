@@ -1,0 +1,26 @@
+.container-card {
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    gap: 80px;
+    padding: auto;
+    margin: 200px;
+   
+}
+
+.card {
+    background-color:white;
+  border-radius: 20px;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  text-align: center;
+  font-size: 30px;
+  padding: 30px;
+}
+
+.name{
+    font-weight: bold;
+    text-align: left;
+}
+
+
+
+
